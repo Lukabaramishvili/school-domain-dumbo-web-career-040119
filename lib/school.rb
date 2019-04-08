@@ -9,7 +9,7 @@ class School
   end 
   
   def add_student
-    binding.pry
+    
   end 
   
   def roster
